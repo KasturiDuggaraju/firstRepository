@@ -1,4 +1,4 @@
-# firstRepository
+c# firstRepository
 the first repository
 <br>
-Author : Kasturi Duggaraju
+Author : Kasturi.D
